@@ -133,11 +133,12 @@ _Nothing here yet — please [contribute](CONTRIBUTING.md)!_
 
 *Guides, conference talks, blog posts, and deep dives about OpAMP.*
 
-<!-- Example entry:
-- [Example Article](https://example.com) - One-line description of what it covers and who wrote it.
--->
+- [OpenTelemetry At Scale 101: Intro to OpAMP](https://www.youtube.com/watch?v=zlGkhvhE-KQ) - NDC conference talk by Aakansha Priya and Adriana Villela introducing OpAMP.
+- [OpenTelemetry at Scale: Controlling your Fleet with OpAMP](https://dev.to/agardnerit/opentelemetry-at-scale-controlling-your-fleet-49m2) - Article on using OpAMP to manage a fleet of agents at scale.
+- [OpenTelemetry OpAMP: Everything you need to know (theory + hands-on)](https://www.youtube.com/watch?v=WRLODv2xBLM) - Video covering OpAMP theory followed by a hands-on demo.
+- [Operating OpenTelemetry at Scale with OpAMP](https://www.youtube.com/watch?v=Z0HR7lClIBQ) - OpenObservability Talks episode on operating agent fleets with OpAMP.
 
-_Nothing here yet — please [contribute](CONTRIBUTING.md)!_
+More talks and videos: [YouTube search for "OpAMP"](https://www.youtube.com/results?search_query=opentelemetry+opamp).
 
 ## Community
 
