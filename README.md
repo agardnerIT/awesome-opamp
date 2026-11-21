@@ -56,6 +56,7 @@ See [Contributing](CONTRIBUTING.md).
 
 ### Go
 
+- [opamp extension](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/extension/opampextension) - OpAMP client extension for the OpenTelemetry Collector, allowing a Collector to be managed directly over OpAMP.
 - [opamp-go](https://github.com/open-telemetry/opamp-go) - Official OpAMP protocol implementation in Go, with both client and server libraries.
 
 ### Python
@@ -103,18 +104,14 @@ _Nothing here yet — please [contribute](CONTRIBUTING.md)!_
 
 *Agents that run alongside and manage other agents over OpAMP — e.g. managing an OpenTelemetry Collector instance.*
 
-<!-- Example entry:
-- [Example Supervisor](https://example.com) - One-line description of what it does and why it is great.
--->
-
-_Nothing here yet — please [contribute](CONTRIBUTING.md)!_
+- [opampsupervisor](https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/cmd/opampsupervisor) - Official OpAMP supervisor for the OpenTelemetry Collector; manages a Collector instance as its OpAMP agent.
 
 ## Agents with OpAMP Support
 
 *Telemetry agents and collectors that can be remotely managed via standard OpAMP.*
 
 - [Grafana Alloy](https://grafana.com/docs/grafana-cloud/send-data/fleet-management/get-started/opentelemetry-collector/) - Grafana Alloy can be managed via standard OpAMP; this page covers connecting it to Grafana Cloud Fleet Management.
-- [OpenTelemetry Collector](https://opentelemetry.io/docs/collector/management/) - The vendor-neutral collector, remotely manageable via OpAMP with the opampsupervisor.
+- [OpenTelemetry Collector](https://opentelemetry.io/docs/collector/management/) - The vendor-neutral collector, remotely manageable via OpAMP through the opampsupervisor or the opamp extension.
 - [osquery-opamp](https://github.com/agardnerIT/osquery-opamp) - OpAMP extension for osquery, enabling remote fleet management of osquery deployments.
 
 ## Tools & Utilities
