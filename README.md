@@ -77,11 +77,7 @@ _Nothing here yet — please [contribute](CONTRIBUTING.md)!_
 
 ### JavaScript / TypeScript
 
-<!-- Example entry:
-- [Example Client](https://example.com) - One-line description of what it does and why it is great.
--->
-
-_Nothing here yet — please [contribute](CONTRIBUTING.md)!_
+- [@elastic/opamp-client-node](https://github.com/elastic/elastic-otel-node/tree/main/packages/opamp-client-node) - Node.js client for receiving remote configuration over OpAMP HTTP and reporting whether it was applied.
 
 ### Other Languages
 
