@@ -47,11 +47,8 @@ See [Contributing](CONTRIBUTING.md).
 
 *The canonical specification and supporting documentation.*
 
-<!-- Example entry:
 - [OpAMP Specification](https://opentelemetry.io/docs/specs/opamp/) - The official OpenTelemetry OpAMP specification.
--->
-
-_Nothing here yet — please [contribute](CONTRIBUTING.md)!_
+- [opamp-spec](https://github.com/open-telemetry/opamp-spec) - Source repository for the OpAMP specification, including the protobuf definitions.
 
 ## Client Libraries
 
@@ -59,11 +56,7 @@ _Nothing here yet — please [contribute](CONTRIBUTING.md)!_
 
 ### Go
 
-<!-- Example entry:
-- [opamp-go](https://github.com/open-telemetry/opamp-go) - The official OpenTelemetry OpAMP library in Go, with client and server support.
--->
-
-_Nothing here yet — please [contribute](CONTRIBUTING.md)!_
+- [opamp-go](https://github.com/open-telemetry/opamp-go) - Official OpAMP protocol implementation in Go, with both client and server libraries.
 
 ### Python
 
@@ -101,11 +94,10 @@ _Nothing here yet — please [contribute](CONTRIBUTING.md)!_
 
 *OpAMP server / fleet-management implementations — the side that manages agents.*
 
-<!-- Example entry:
-- [Example Server](https://example.com) - One-line description of what it does and why it is great.
--->
-
-_Nothing here yet — please [contribute](CONTRIBUTING.md)!_
+- [Bindplane](https://bindplane.com) - OpAMP-based fleet management platform for telemetry agents; free tier available, commercial and not open source.
+- [opamp-elixir](https://github.com/jaronoff97/opamp-elixir) - OpAMP protocol implementation in Elixir.
+- [opamp-go](https://github.com/open-telemetry/opamp-go) - Official OpAMP protocol implementation in Go, with both client and server libraries.
+- [opamp-server-py](https://github.com/agardnerIT/opamp-server-py) - OpAMP server in Python (FastAPI + Streamlit UI) with SQL-based agent selection, staged config rollouts, and OPA compliance.
 
 ## Supervisors
 
