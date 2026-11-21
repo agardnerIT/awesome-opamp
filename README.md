@@ -113,11 +113,9 @@ _Nothing here yet — please [contribute](CONTRIBUTING.md)!_
 
 *Telemetry agents and collectors that can be remotely managed via standard OpAMP.*
 
-<!-- Example entry:
-- [Example Agent](https://example.com) - One-line description of what it does and why it is great.
--->
-
-_Nothing here yet — please [contribute](CONTRIBUTING.md)!_
+- [Grafana Alloy](https://grafana.com/docs/grafana-cloud/send-data/fleet-management/get-started/opentelemetry-collector/) - Grafana Alloy can be managed via standard OpAMP; this page covers connecting it to Grafana Cloud Fleet Management.
+- [OpenTelemetry Collector](https://opentelemetry.io/docs/collector/management/) - The vendor-neutral collector, remotely manageable via OpAMP with the opampsupervisor.
+- [osquery-opamp](https://github.com/agardnerIT/osquery-opamp) - OpAMP extension for osquery, enabling remote fleet management of osquery deployments.
 
 ## Tools & Utilities
 
