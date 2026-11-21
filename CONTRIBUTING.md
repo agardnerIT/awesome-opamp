@@ -38,9 +38,11 @@ Rules:
 
 1. Fork the repo and create a branch.
 2. Add your entry (and update the table of contents if you add a section).
-3. Open a pull request using the template. CI runs a dead-link check — all
-   links must resolve.
-4. Keep PRs to one topic so they are easy to review.
+3. Run `python3 scripts/validate.py` — it enforces the structural rules above and
+   must exit 0. (AI agents: see [AGENTS.md](AGENTS.md) for the full agent rules.)
+4. Open a pull request using the template. CI runs the validator plus a
+   dead-link check — all links must resolve.
+5. Keep PRs to one topic so they are easy to review.
 
 ## Adding a new section
 
