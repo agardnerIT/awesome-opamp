@@ -7,7 +7,7 @@ A curated list of awesome resources, implementations, libraries, and tools for t
 managing fleets of agents and collectors.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Check links](https://github.com/agardnerit/awesome-opamp/actions/workflows/links.yml/badge.svg)](https://github.com/agardnerit/awesome-opamp/actions/workflows/links.yml)
+[![Check links](https://github.com/agardnerIT/awesome-opamp/actions/workflows/links.yml/badge.svg)](https://github.com/agardnerIT/awesome-opamp/actions/workflows/links.yml)
 
 </div>
 
