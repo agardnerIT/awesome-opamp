@@ -108,6 +108,7 @@ _Nothing here yet — please [contribute](CONTRIBUTING.md)!_
 
 - [Grafana Alloy](https://grafana.com/docs/grafana-cloud/send-data/fleet-management/get-started/opentelemetry-collector/) - Grafana Alloy can be managed via standard OpAMP; this page covers connecting it to Grafana Cloud Fleet Management.
 - [opamp-falco](https://github.com/agardnerIT/opamp-falco) - OpAMP agent for Falco: the generic opamp-agent bridge plus a driver that applies pushed config and rules files and verifies them through Falco's reload-control API.
+- [opamp-agent](https://github.com/agardnerIT/opamp-agent) - Generic OpAMP bridge that makes a third-party tool manageable over standard OpAMP through a small driver, without changing the tool.
 - [OpenTelemetry Collector](https://opentelemetry.io/docs/collector/management/) - The vendor-neutral collector, remotely manageable via OpAMP through the opampsupervisor or the opamp extension.
 - [osquery-opamp](https://github.com/agardnerIT/osquery-opamp) - OpAMP extension for osquery, enabling remote fleet management of osquery deployments.
 
